@@ -61,3 +61,9 @@ body{
 .escola-texto-dois{
     font-size: 50px;
 }
+
+.rodape{
+    font-size: 50px;
+    margin: 15px;
+    padding-top: 10%;
+}
