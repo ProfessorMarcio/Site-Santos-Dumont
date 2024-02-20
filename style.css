@@ -16,6 +16,9 @@ body{
 
 .cabeçalho-imagem{
     width: 5%;
+    margin: 0 16px;
+    font-size: 80px;
+    padding: 15px 0;
 }
 
 .cabeçalho-lista-item{
