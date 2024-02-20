@@ -30,6 +30,9 @@ body{
 
 .escola-imagem{
     width: 30%;
+    margin: 0 16px;
+    font-size: 80px;
+    padding: 15px 0;
 }
 
 .escola{
